@@ -6,4 +6,4 @@ Custom build with i3wm as default WM
 ![Archcraft i3WM Two](./img/1-archcraft.png)
 
 ### Download
-[ISO](https://mega.nz/fm/iNl02Jja)
+[ISO](https://mega.nz/file/rENHSCha#HbUladkBOYTLW5o3BMl5g3mFSB2TE7fLRaOSeNu5z8Y)
